@@ -1,0 +1,22 @@
+Write the program to execute conversion of other datatype.
+
+Input Format
+
+Output Format
+
+Sample Input 0
+
+68
+Sample Output 0
+
+D
+Sample Input 1
+
+111
+Sample Output 1
+
+o
+#code:
+n = int(input())
+ascii_char = chr(n)
+print(ascii_char)
