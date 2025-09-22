@@ -1,0 +1,14 @@
+Write a program to execute the statement of given input.
+
+Input Format
+input consist of string
+Output Format
+Sample Input 0
+
+welcome to c programming language
+Sample Output 0
+
+welcome to c programming language
+
+a=input()
+print(a)
